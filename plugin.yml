@@ -1,0 +1,7 @@
+name: 7broadcast
+main: com.seventhcircle.sevenbroadcast.main
+version: 1.0
+
+commands:
+  ab:
+     description: A simple Broadcast command with 1-4 args
